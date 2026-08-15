@@ -8,6 +8,8 @@ This Power BI dashboard provides an interactive analysis of **PhonePe payment tr
 
 
 
+
+
 🚀 Features
 
 * 📊 Interactive transaction analysis
@@ -23,7 +25,7 @@ This Power BI dashboard provides an interactive analysis of **PhonePe payment tr
 
 
 
-🧠 Technical Highlights
+**🧠 Technical Highlights**
 
 🔧 Data Transformation
 
